@@ -39,11 +39,11 @@ Aplikasi ini memindahkan file secara fisik ke dalam kategori tertentu hanya deng
 
 
 # 🛠️ Teknologi yang Digunakan
-Python 3.10+
-CustomTkinter (UI Framework)
-Pillow (Image Processing)
-Shutil (File Operations)
+- Python 3.10+
+- CustomTkinter (UI Framework)
+- Pillow (Image Processing)
+- Shutil (File Operations)
 
 
-# Dibuat dengan ❤️ oleh ** iamfatur **
+# Dibuat dengan ❤️ oleh iamfatur
    
